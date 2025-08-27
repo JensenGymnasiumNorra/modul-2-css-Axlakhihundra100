@@ -15,3 +15,5 @@
 
 # Anteckningar
 Anteckna kort här vad du har gjort för förändringar på sidan i denna uppgift.
+
+lade till lite bas grejer för en hemsida, headers lite text tre boxes och lite filler text etc ba lite bullshit tills vidare. 
