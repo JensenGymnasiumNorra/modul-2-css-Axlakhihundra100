@@ -20,3 +20,4 @@ Några av nedanstående:
 
 # Anteckningar
 Anteckna kort här vad du har gjort för förändringar på sidan i denna uppgift.
+lade till lite font size, lite style, lite fonts, samt text align. 

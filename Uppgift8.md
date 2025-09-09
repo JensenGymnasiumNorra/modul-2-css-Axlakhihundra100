@@ -10,3 +10,5 @@ Använd dig av det du har lärt dig om Grid för att anpassa din sida.
 
 # Anteckningar
 Anteckna kort här vad du har gjort för förändringar på sidan i denna uppgift.
+
+lade till lite grid, som typ inte gör så mycket, men de finns med. 

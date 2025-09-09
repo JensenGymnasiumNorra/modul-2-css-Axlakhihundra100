@@ -22,3 +22,5 @@ Vi kommer köra spelet https://flukeout.github.io/ genom exam.net
 
 # Anteckningar
 Anteckna kort här vad du har gjort för förändringar på sidan i denna uppgift.
+
+lade till, p, div, class: container, h1 class, stylade p, samt div, samt h1
